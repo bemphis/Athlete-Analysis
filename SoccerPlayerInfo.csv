@@ -1,0 +1,848 @@
+,League,Team,Name,Position,Age,Height,Weight,BMI,Rating
+0,EPL,Arsenal,Bernd Leno,Goalkeeper,28,75,183,22.870933333333333,6.88
+2,EPL,Arsenal,Héctor Bellerín,Defender,25,70,163,23.385510204081633,6.63
+3,EPL,Arsenal,Calum Chambers,Defender,25,72,146,19.798996913580247,6.86
+4,EPL,Arsenal,Rob Holding,Defender,24,72,165,22.375578703703702,6.25
+5,EPL,Arsenal,Pablo Marí,Defender,26,75,192,23.995733333333334,7.37
+6,EPL,Arsenal,Sokratis Sokratis,Defender,31,73,187,24.668981047100768,6.82
+7,EPL,Arsenal,Dani Ceballos,Midfielder,23,70,157,22.52469387755102,6.79
+8,EPL,Arsenal,Ainsley Maitland-Niles,Midfielder,22,70,157,22.52469387755102,6.79
+9,EPL,Arsenal,Reiss Nelson,Midfielder,20,69,157,23.18231463978156,6.37
+10,EPL,Arsenal,Lucas Torreira,Midfielder,24,66,141,22.755509641873278,6.61
+11,EPL,Arsenal,Granit Xhaka,Midfielder,27,72,181,24.545331790123456,6.79
+12,EPL,Arsenal,Pierre-Emerick Aubameyang,Forward,30,74,163,20.925675675675677,6.99
+13,EPL,Arsenal,Eddie Nketiah,Forward,21,69,154,22.73934047469019,6.57
+14,EPL,Arsenal,Bukayo Saka,Forward,18,70,143,20.51612244897959,6.66
+16,EPL,Arsenal,Cédric Soares,Defender,28,68,148,22.500865051903116,6.76
+17,EPL,Arsenal,David Luiz,Defender,33,74,185,23.75,6.68
+18,EPL,Arsenal,Sead Kolasinac,Defender,26,72,187,25.358989197530864,6.49
+19,EPL,Arsenal,Shkodran Mustafi,Defender,28,72,181,24.545331790123456,7.13
+20,EPL,Arsenal,Kieran Tierney,Defender,22,70,154,22.094285714285714,6.45
+22,EPL,Arsenal,Gabriel Martinelli,Midfielder,18,71,165,23.01031541360841,6.4
+23,EPL,Arsenal,Mesut Özil,Midfielder,31,71,154,21.476294386034517,6.71
+24,EPL,Arsenal,Joe Willock,Midfielder,20,70,157,22.52469387755102,6.29
+25,EPL,Arsenal,Alexandre Lacazette,Forward,29,69,161,23.77294685990338,6.95
+26,EPL,Arsenal,Nicolas Pépé,Forward,25,72,161,21.833140432098766,7.19
+27,EPL,Aston Villa,Tom Heaton,Goalkeeper,34,74,187,24.006756756756758,6.57
+28,EPL,Aston Villa,Pepe Reina,Goalkeeper,37,74,203,26.06081081081081,6.6
+29,EPL,Aston Villa,Björn Engels,Defender,25,76,183,22.273026315789473,6.61
+30,EPL,Aston Villa,Kortney Hause,Defender,24,74,185,23.75,6.74
+31,EPL,Aston Villa,Tyrone Mings,Defender,27,75,170,21.246222222222222,6.63
+32,EPL,Aston Villa,Neil Taylor,Defender,31,69,141,20.819785759294266,6.33
+33,EPL,Aston Villa,Douglas Luiz,Midfielder,22,70,143,20.51612244897959,6.56
+35,EPL,Aston Villa,Conor Hourihane,Midfielder,29,71,137,19.10553461614759,6.55
+36,EPL,Aston Villa,Henri Lansbury,Midfielder,29,72,187,25.358989197530864,6.02
+37,EPL,Aston Villa,Marvelous Nakamba,Midfielder,26,70,157,22.52469387755102,6.6
+38,EPL,Aston Villa,Borja Bastón,Forward,27,75,181,22.620977777777778,5.71
+39,EPL,Aston Villa,Anwar El Ghazi,Forward,25,74,168,21.56756756756757,6.66
+40,EPL,Aston Villa,Wesley,Forward,23,75,205,25.620444444444445,6.76
+42,EPL,Aston Villa,Jed Steer,Goalkeeper,27,74,196,25.16216216216216,6.32
+44,EPL,Aston Villa,Ezri Konsa,Defender,22,72,170,23.053626543209877,6.39
+45,EPL,Aston Villa,Matt Targett,Defender,24,72,154,20.883873456790123,6.89
+47,EPL,Aston Villa,Jack Grealish,Midfielder,24,69,150,22.14870825456837,7.33
+48,EPL,Aston Villa,Jota,Midfielder,28,71,148,20.639555643721483,6.29
+49,EPL,Aston Villa,John McGinn,Midfielder,25,69,150,22.14870825456837,7.26
+51,EPL,Aston Villa,Keinan Davis,Forward,22,66,150,24.207988980716255,6.18
+52,EPL,Aston Villa,Mbwana Samatta,Forward,27,71,154,21.476294386034517,6.74
+55,EPL,BHA,Bernardo,Defender,25,73,168,22.162507036967536,6.64
+56,EPL,BHA,Shane Duffy,Defender,28,76,168,20.44736842105263,6.83
+57,EPL,BHA,Ezequiel Schelotto,Defender,31,74,174,22.33783783783784,6.23
+58,EPL,BHA,Steven Alzate,Midfielder,21,70,143,20.51612244897959,6.69
+61,EPL,BHA,Solly March,Midfielder,25,71,194,27.054552668121403,6.72
+62,EPL,BHA,Davy Pröpper,Midfielder,28,73,159,20.97522987427285,6.83
+63,EPL,BHA,Aaron Connolly,Forward,20,69,161,23.77294685990338,6.35
+64,EPL,BHA,Alireza Jahanbakhsh,Forward,26,71,170,23.70759769886927,6.57
+65,EPL,BHA,Glenn Murray,Forward,36,72,176,23.867283950617285,6.26
+67,EPL,BHA,Dan Burn,Defender,28,78,192,22.185404339250493,6.95
+68,EPL,BHA,Lewis Dunk,Defender,28,76,194,23.611842105263158,6.9
+69,EPL,BHA,Martín Montoya,Defender,29,69,161,23.77294685990338,6.62
+70,EPL,BHA,Adam Webster,Defender,25,75,165,20.621333333333332,6.83
+71,EPL,BHA,Yves Bissouma,Midfielder,23,72,176,23.867283950617285,6.63
+72,EPL,BHA,Pascal Groß,Midfielder,28,71,172,23.986510612973618,6.76
+73,EPL,BHA,Alexis Mac Allister,Midfielder,21,69,154,22.73934047469019,6.01
+74,EPL,BHA,Aaron Mooy,Midfielder,29,68,159,24.173226643598618,6.77
+75,EPL,BHA,Dale Stephens,Midfielder,30,67,157,24.58699042102918,6.69
+77,EPL,BHA,Neal Maupay,Forward,23,67,152,23.80396524838494,6.67
+78,EPL,BHA,Leandro Trossard,Forward,25,68,170,25.845588235294116,6.58
+80,EPL,Bournemouth,Mark Travers,Goalkeeper,21,75,181,22.620977777777778,4.95
+81,EPL,Bournemouth,Nathan Aké,Defender,25,71,165,23.01031541360841,6.82
+82,EPL,Bournemouth,Charlie Daniels,Defender,33,70,165,23.672448979591838,6.21
+84,EPL,Bournemouth,Diego Rico,Defender,27,71,165,23.01031541360841,6.99
+85,EPL,Bournemouth,Adam Smith,Defender,29,71,172,23.986510612973618,6.61
+86,EPL,Bournemouth,Philip Billing,Midfielder,23,76,176,21.42105263157895,7.0
+87,EPL,Bournemouth,Lewis Cook,Midfielder,23,69,157,23.18231463978156,6.32
+88,EPL,Bournemouth,Dan Gosling,Midfielder,30,72,174,23.596064814814813,6.41
+89,EPL,Bournemouth,Junior Stanislas,Midfielder,30,72,168,22.78240740740741,6.17
+92,EPL,Bournemouth,Dominic Solanke,Forward,22,73,165,21.76674798273597,6.32
+93,EPL,Bournemouth,Callum Wilson,Forward,28,71,146,20.36064272961714,6.51
+94,EPL,Bournemouth,Aaron Ramsdale,Goalkeeper,22,74,170,21.824324324324323,6.77
+95,EPL,Bournemouth,Steve Cook,Defender,29,73,181,23.877462938637642,6.79
+96,EPL,Bournemouth,Simon Francis,Defender,35,72,198,26.850694444444443,6.54
+97,EPL,Bournemouth,Chris Mepham,Defender,22,75,165,20.621333333333332,6.75
+98,EPL,Bournemouth,Jack Simpson,Defender,23,70,183,26.254897959183673,6.15
+100,EPL,Bournemouth,Ryan Fraser,Midfielder,26,64,154,26.43115234375,6.57
+101,EPL,Bournemouth,Jordon Ibe,Midfielder,24,69,179,26.430791850451588,6.23
+102,EPL,Bournemouth,Jefferson Lerma,Midfielder,25,70,154,22.094285714285714,6.7
+103,EPL,Bournemouth,Jack Stacey,Midfielder,24,71,150,20.91846855782583,6.75
+104,EPL,Bournemouth,Andrew Surman,Midfielder,33,70,161,23.09857142857143,6.02
+105,EPL,Bournemouth,Harry Wilson,Midfielder,23,68,154,23.413062283737023,6.64
+106,EPL,Bournemouth,Joshua King,Forward,28,71,163,22.731402499504068,6.84
+107,EPL,Bournemouth,Sam Surridge,Forward,21,75,170,21.246222222222222,5.87
+110,EPL,Burnley,Phil Bardsley,Defender,34,71,163,22.731402499504068,6.94
+112,EPL,Burnley,Matthew Lowton,Defender,30,71,172,23.986510612973618,6.7
+113,EPL,Burnley,Erik Pieters,Defender,31,72,183,24.816550925925927,6.65
+114,EPL,Burnley,Charlie Taylor,Defender,26,69,154,22.73934047469019,6.88
+115,EPL,Burnley,Robbie Brady,Midfielder,28,69,157,23.18231463978156,6.28
+116,EPL,Burnley,Jack Cork,Midfielder,30,72,154,20.883873456790123,6.63
+118,EPL,Burnley,Aaron Lennon,Midfielder,33,65,139,23.128284023668638,6.08
+119,EPL,Burnley,Ashley Barnes,Forward,30,73,170,22.426346406455245,6.67
+121,EPL,Burnley,Chris Wood,Forward,28,75,179,22.371022222222223,6.74
+123,EPL,Burnley,Nick Pope,Goalkeeper,28,75,168,20.996266666666667,6.71
+126,EPL,Burnley,Ben Mee,Defender,30,71,163,22.731402499504068,6.88
+127,EPL,Burnley,James Tarkowski,Defender,27,73,179,23.613623569149933,7.11
+128,EPL,Burnley,Josh Brownhill,Midfielder,24,70,152,21.80734693877551,6.0
+129,EPL,Burnley,Jeff Hendrick,Midfielder,28,73,174,22.954025145430663,6.55
+130,EPL,Burnley,Ashley Westwood,Midfielder,30,69,179,26.430791850451588,6.82
+131,EPL,Burnley,Dwight McNeil,Forward,20,72,150,20.341435185185187,7.09
+132,EPL,Burnley,Matej Vydra,Forward,28,71,157,21.894663757191033,6.39
+133,EPL,Chelsea,Willy Caballero,Goalkeeper,38,73,176,23.21786451491837,6.25
+134,EPL,Chelsea,Marcos Alonso,Defender,29,74,185,23.75,7.49
+135,EPL,Chelsea,Andreas Christensen,Defender,24,76,187,22.75986842105263,6.71
+136,EPL,Chelsea,Antonio Rüdiger,Defender,27,75,187,23.370844444444444,6.84
+137,EPL,Chelsea,Kurt Zouma,Defender,25,75,203,25.37048888888889,6.9
+139,EPL,Chelsea,Jorginho,Midfielder,28,71,143,19.94227335846062,6.94
+140,EPL,Chelsea,Mateo Kovacic,Midfielder,26,70,172,24.676734693877552,6.98
+141,EPL,Chelsea,Mason Mount,Midfielder,21,69,141,20.819785759294266,7.01
+142,EPL,Chelsea,Pedro,Midfielder,32,67,143,22.394519937625308,6.95
+143,EPL,Chelsea,Willian,Midfielder,31,69,170,25.101869355177485,7.25
+144,EPL,Chelsea,Tammy Abraham,Forward,22,75,159,19.871466666666667,7.12
+145,EPL,Chelsea,Michy Batshuayi,Forward,26,73,172,22.690185775942954,6.1
+146,EPL,Chelsea,Olivier Giroud,Forward,33,76,201,24.463815789473685,6.69
+148,EPL,Chelsea,César Azpilicueta,Defender,30,70,172,24.676734693877552,7.11
+149,EPL,Chelsea,Emerson,Defender,25,69,139,20.524469649233353,6.75
+150,EPL,Chelsea,Reece James,Defender,20,72,181,24.545331790123456,6.92
+151,EPL,Chelsea,Fikayo Tomori,Defender,22,73,170,22.426346406455245,6.88
+152,EPL,Chelsea,Ross Barkley,Midfielder,26,73,168,22.162507036967536,6.9
+153,EPL,Chelsea,Callum Hudson-Odoi,Midfielder,19,72,165,22.375578703703702,6.63
+154,EPL,Chelsea,N'Golo Kanté,Midfielder,29,66,154,24.853535353535353,6.89
+156,EPL,Chelsea,Christian Pulisic,Midfielder,21,68,152,23.108996539792386,7.08
+157,EPL,Crystal Palace,Vicente Guaita,Goalkeeper,33,75,176,21.996088888888888,6.82
+158,EPL,Crystal Palace,Wayne Hennessey,Goalkeeper,33,78,198,22.87869822485207,7.25
+159,EPL,Crystal Palace,Gary Cahill,Defender,34,75,187,23.370844444444444,6.8
+160,EPL,Crystal Palace,Martin Kelly,Defender,30,75,170,21.246222222222222,6.66
+161,EPL,Crystal Palace,Mamadou Sakho,Defender,30,74,176,22.594594594594593,6.21
+162,EPL,Crystal Palace,James Tomkins,Defender,31,76,163,19.838815789473685,6.82
+163,EPL,Crystal Palace,Joel Ward,Defender,30,74,183,23.493243243243242,6.65
+165,EPL,Crystal Palace,James McArthur,Midfielder,32,70,141,20.22918367346939,6.93
+166,EPL,Crystal Palace,Max Meyer,Midfielder,24,68,148,22.500865051903116,6.21
+167,EPL,Crystal Palace,Wilfried Zaha,Midfielder,27,71,146,20.36064272961714,7.06
+168,EPL,Crystal Palace,Jordan Ayew,Forward,28,72,179,24.274112654320987,7.01
+169,EPL,Crystal Palace,Cenk Tosun,Forward,28,72,172,23.324845679012345,6.31
+172,EPL,Crystal Palace,Scott Dann,Defender,33,74,172,22.08108108108108,6.82
+173,EPL,Crystal Palace,Jairo Riedewald,Defender,23,72,174,23.596064814814813,6.37
+174,EPL,Crystal Palace,Jeffrey Schlupp,Defender,27,70,159,22.811632653061224,6.63
+175,EPL,Crystal Palace,Patrick van Aanholt,Defender,29,69,148,21.853392144507456,6.79
+176,EPL,Crystal Palace,Cheikhou Kouyaté,Midfielder,30,74,165,21.18243243243243,6.73
+177,EPL,Crystal Palace,James McCarthy,Midfielder,29,71,159,22.17357667129538,6.51
+178,EPL,Crystal Palace,Luka Milivojevic,Midfielder,29,73,176,23.21786451491837,6.75
+179,EPL,Crystal Palace,Andros Townsend,Midfielder,28,71,170,23.70759769886927,6.61
+180,EPL,Crystal Palace,Christian Benteke,Forward,29,75,183,22.870933333333333,6.77
+181,EPL,Everton,Jordan Pickford,Goalkeeper,26,73,159,20.97522987427285,6.35
+183,EPL,Everton,Leighton Baines,Defender,35,67,154,24.117175317442637,6.78
+184,EPL,Everton,Lucas Digne,Defender,26,70,163,23.385510204081633,7.12
+185,EPL,Everton,Mason Holgate,Defender,23,71,139,19.384447530251933,6.73
+187,EPL,Everton,Djibril Sidibé,Defender,27,72,179,24.274112654320987,7.01
+189,EPL,Everton,Tom Davies,Midfielder,21,71,154,21.476294386034517,6.44
+190,EPL,Everton,Jean-Philippe Gbamin,Midfielder,24,73,183,24.14130230812535,6.76
+191,EPL,Everton,Alex Iwobi,Midfielder,24,73,190,25.064740101332333,6.54
+192,EPL,Everton,Gylfi Sigurdsson,Midfielder,30,73,181,23.877462938637642,6.68
+193,EPL,Everton,Dominic Calvert-Lewin,Forward,23,69,141,20.819785759294266,6.94
+194,EPL,Everton,Moise Kean,Forward,20,72,159,21.561921296296298,6.3
+195,EPL,Everton,Richarlison,Forward,23,70,157,22.52469387755102,7.32
+198,EPL,Everton,Michael Keane,Defender,27,75,181,22.620977777777778,6.7
+199,EPL,Everton,Yerry Mina,Defender,25,76,209,25.4375,6.85
+200,EPL,Everton,Bernard,Midfielder,27,65,115,19.13491124260355,6.66
+201,EPL,Everton,Fabian Delph,Midfielder,30,69,172,25.397185465238394,6.49
+202,EPL,Everton,André Gomes,Midfielder,26,74,185,23.75,6.32
+203,EPL,Everton,Morgan Schneiderlin,Midfielder,30,71,165,23.01031541360841,6.42
+204,EPL,Everton,Oumar Niasse,Forward,30,72,181,24.545331790123456,5.97
+205,EPL,Everton,Theo Walcott,Forward,31,69,150,22.14870825456837,6.41
+208,EPL,Leicester,Ryan Bennett,Defender,30,74,198,25.41891891891892,6.39
+209,EPL,Leicester,Jonny Evans,Defender,32,74,170,21.824324324324323,6.95
+210,EPL,Leicester,Wes Morgan,Defender,36,74,223,28.62837837837838,6.27
+212,EPL,Leicester,Marc Albrighton,Midfielder,30,69,163,24.068262969964294,6.51
+213,EPL,Leicester,Harvey Barnes,Midfielder,22,71,146,20.36064272961714,6.88
+214,EPL,Leicester,Demarai Gray,Midfielder,23,71,163,22.731402499504068,6.44
+215,EPL,Leicester,James Justin,Midfielder,22,72,157,21.290702160493826,6.73
+216,EPL,Leicester,Nampalys Mendy,Midfielder,27,66,150,24.207988980716255,6.57
+217,EPL,Leicester,Dennis Praet,Midfielder,26,71,172,23.986510612973618,6.45
+218,EPL,Leicester,Youri Tielemans,Midfielder,23,69,159,23.47763074984247,6.87
+220,EPL,Leicester,Ayoze Pérez,Forward,26,70,146,20.9465306122449,6.86
+221,EPL,Leicester,Kasper Schmeichel,Goalkeeper,33,75,203,25.37048888888889,6.81
+222,EPL,Leicester,Ben Chilwell,Defender,23,70,170,24.389795918367348,6.97
+223,EPL,Leicester,Christian Fuchs,Defender,34,74,196,25.16216216216216,6.79
+224,EPL,Leicester,Ricardo Pereira,Defender,26,69,154,22.73934047469019,7.5
+226,EPL,Leicester,Hamza Choudhury,Midfielder,22,70,141,20.22918367346939,6.42
+227,EPL,Leicester,Matty James,Midfielder,28,71,190,26.496726839912714,6.01
+228,EPL,Leicester,James Maddison,Midfielder,23,69,161,23.77294685990338,7.34
+229,EPL,Leicester,Wilfred Ndidi,Midfielder,23,72,161,21.833140432098766,7.36
+231,EPL,Leicester,Kelechi Iheanacho,Forward,24,72,176,23.867283950617285,6.7
+232,EPL,Leicester,Jamie Vardy,Forward,33,70,176,25.250612244897958,7.25
+233,EPL,Liverpool,Adrián,Goalkeeper,33,75,176,21.996088888888888,6.33
+235,EPL,Liverpool,Trent Alexander-Arnold,Defender,21,69,154,22.73934047469019,7.3
+237,EPL,Liverpool,Joe Gomez,Defender,23,73,170,22.426346406455245,6.9
+238,EPL,Liverpool,Dejan Lovren,Defender,30,74,185,23.75,7.14
+239,EPL,Liverpool,Andrew Robertson,Defender,26,70,141,20.22918367346939,7.12
+240,EPL,Liverpool,Virgil van Dijk,Defender,28,76,203,24.707236842105264,7.4
+242,EPL,Liverpool,Curtis Jones,Midfielder,19,72,150,20.341435185185187,6.24
+243,EPL,Liverpool,Adam Lallana,Midfielder,32,68,161,24.47729238754325,6.34
+244,EPL,Liverpool,James Milner,Midfielder,34,69,154,22.73934047469019,6.57
+245,EPL,Liverpool,Xherdan Shaqiri,Midfielder,28,65,172,28.619171597633137,6.37
+246,EPL,Liverpool,Harvey Elliott,Forward,17,67,163,25.526620628202274,6.0
+247,EPL,Liverpool,Takumi Minamino,Forward,25,69,148,21.853392144507456,6.12
+248,EPL,Liverpool,Mohamed Salah,Forward,27,69,157,23.18231463978156,7.45
+249,EPL,Liverpool,Alisson,Goalkeeper,27,76,201,24.463815789473685,6.75
+251,EPL,Liverpool,Fabinho,Defender,26,74,172,22.08108108108108,5.58
+253,EPL,Liverpool,Joel Matip,Defender,28,77,198,23.476808905380334,7.33
+256,EPL,Liverpool,Jordan Henderson,Midfielder,29,72,181,24.545331790123456,7.2
+259,EPL,Liverpool,Georginio Wijnaldum,Midfielder,29,69,163,24.068262969964294,6.87
+260,EPL,Liverpool,Roberto Firmino,Forward,28,71,168,23.42868478476493,7.26
+261,EPL,Liverpool,Sadio Mané,Forward,28,69,152,22.44402436462928,7.5
+262,EPL,Liverpool,Divock Origi,Forward,25,73,165,21.76674798273597,6.44
+263,EPL,MCFC,Claudio Bravo,Goalkeeper,37,72,176,23.867283950617285,6.39
+264,EPL,MCFC,Ederson,Goalkeeper,26,74,185,23.75,6.49
+265,EPL,MCFC,João Cancelo,Defender,26,72,159,21.561921296296298,7.06
+266,EPL,MCFC,Aymeric Laporte,Defender,26,74,187,24.006756756756758,7.03
+267,EPL,MCFC,Nicolás Otamendi,Defender,32,71,183,25.52053164054751,6.77
+268,EPL,MCFC,John Stones,Defender,26,74,159,20.41216216216216,6.68
+269,EPL,MCFC,Kevin De Bruyne,Midfielder,28,71,154,21.476294386034517,7.92
+270,EPL,MCFC,Fernandinho,Midfielder,35,70,154,22.094285714285714,6.91
+271,EPL,MCFC,Ilkay Gündogan,Midfielder,29,71,174,24.26542352707796,6.63
+274,EPL,MCFC,David Silva,Midfielder,34,67,148,23.17754511026955,7.15
+275,EPL,MCFC,Oleksandr Zinchenko,Midfielder,23,69,134,19.786179374081076,6.77
+276,EPL,MCFC,Sergio Agüero,Forward,31,68,176,26.757785467128027,7.2
+278,EPL,MCFC,Benjamin Mendy,Defender,25,72,185,25.087770061728396,6.82
+279,EPL,MCFC,Kyle Walker,Defender,30,70,183,26.254897959183673,6.8
+280,EPL,MCFC,Phil Foden,Midfielder,20,67,154,24.117175317442637,6.46
+281,EPL,MCFC,Riyad Mahrez,Midfielder,29,70,148,21.2334693877551,7.59
+282,EPL,MCFC,Bernardo Silva,Midfielder,25,68,143,21.74070069204152,7.05
+283,EPL,MCFC,Raheem Sterling,Midfielder,25,67,154,24.117175317442637,7.19
+284,EPL,MCFC,Gabriel Jesus,Forward,23,69,161,23.77294685990338,7.19
+287,EPL,MUFC,Eric Bailly,Defender,26,74,170,21.824324324324323,7.07
+289,EPL,MUFC,Harry Maguire,Defender,27,76,216,26.289473684210527,7.12
+290,EPL,MUFC,Axel Tuanzebe,Defender,22,72,165,22.375578703703702,6.0
+291,EPL,MUFC,Bruno Fernandes,Midfielder,25,72,141,19.120949074074073,7.82
+292,EPL,MUFC,James Garner,Midfielder,19,72,165,22.375578703703702,6.0
+293,EPL,MUFC,Jesse Lingard,Midfielder,27,69,132,19.490863264020163,6.27
+294,EPL,MUFC,Nemanja Matic,Midfielder,31,76,190,23.125,7.06
+295,EPL,MUFC,Andreas Pereira,Midfielder,24,70,157,22.52469387755102,6.59
+296,EPL,MUFC,Tahith Chong,Forward,20,73,165,21.76674798273597,6.02
+297,EPL,MUFC,Mason Greenwood,Forward,18,74,143,18.35810810810811,6.47
+298,EPL,MUFC,Anthony Martial,Forward,24,71,168,23.42868478476493,7.17
+299,EPL,MUFC,David de Gea,Goalkeeper,29,75,157,19.62151111111111,6.49
+301,EPL,MUFC,Diogo Dalot,Defender,21,72,168,22.78240740740741,6.18
+302,EPL,MUFC,Phil Jones,Defender,28,72,159,21.561921296296298,6.39
+303,EPL,MUFC,Victor Lindelöf,Defender,25,74,179,22.97972972972973,6.67
+304,EPL,MUFC,Luke Shaw,Defender,24,72,165,22.375578703703702,6.75
+305,EPL,MUFC,Aaron Wan-Bissaka,Defender,22,72,159,21.561921296296298,7.21
+306,EPL,MUFC,Fred,Midfielder,27,67,141,22.081309868567608,6.95
+307,EPL,MUFC,Daniel James,Midfielder,22,71,168,23.42868478476493,6.73
+308,EPL,MUFC,Juan Mata,Midfielder,32,67,134,20.98507462686567,6.37
+309,EPL,MUFC,Scott McTominay,Midfielder,23,70,143,20.51612244897959,7.1
+310,EPL,MUFC,Paul Pogba,Midfielder,27,75,190,23.74577777777778,7.09
+311,EPL,MUFC,Angel Gomes,Forward,19,67,134,20.98507462686567,6.09
+312,EPL,MUFC,Odion Ighalo,Forward,30,74,183,23.493243243243242,6.16
+313,EPL,MUFC,Marcus Rashford,Forward,22,71,172,23.986510612973618,7.34
+316,EPL,Newcastle,Ciaran Clark,Defender,30,74,168,21.56756756756757,6.89
+317,EPL,Newcastle,Federico Fernández,Defender,31,75,183,22.870933333333333,6.84
+318,EPL,Newcastle,Emil Krafth,Defender,25,71,159,22.17357667129538,6.22
+319,EPL,Newcastle,Florian Lejeune,Defender,29,75,179,22.371022222222223,6.51
+320,EPL,Newcastle,Danny Rose,Defender,29,68,168,25.541522491349482,6.29
+321,EPL,Newcastle,Jetro Willems,Defender,26,67,143,22.394519937625308,6.84
+322,EPL,Newcastle,Miguel Almirón,Midfielder,26,70,143,20.51612244897959,6.64
+323,EPL,Newcastle,Nabil Bentaleb,Midfielder,25,74,172,22.08108108108108,6.68
+324,EPL,Newcastle,Valentino Lazaro,Midfielder,24,70,165,23.672448979591838,6.02
+325,EPL,Newcastle,Sean Longstaff,Midfielder,22,71,161,22.45248958539972,6.34
+326,EPL,Newcastle,Jonjo Shelvey,Midfielder,28,73,176,23.21786451491837,7.08
+327,EPL,Newcastle,Dwight Gayle,Forward,29,70,161,23.09857142857143,6.22
+328,EPL,Newcastle,Yoshinori Muto,Forward,27,70,159,22.811632653061224,6.05
+329,EPL,Newcastle,Martin Dubravka,Goalkeeper,31,75,176,21.996088888888888,6.84
+330,EPL,Newcastle,Paul Dummett,Defender,28,72,170,23.053626543209877,6.64
+331,EPL,Newcastle,Jamaal Lascelles,Defender,26,74,183,23.493243243243242,6.72
+332,EPL,Newcastle,Javier Manquillo,Defender,26,71,165,23.01031541360841,6.62
+333,EPL,Newcastle,Fabian Schär,Defender,28,73,183,24.14130230812535,6.85
+334,EPL,Newcastle,DeAndre Yedlin,Defender,26,68,161,24.47729238754325,6.41
+335,EPL,Newcastle,Christian Atsu,Midfielder,28,68,150,22.80493079584775,6.32
+336,EPL,Newcastle,Isaac Hayden,Midfielder,25,74,174,22.33783783783784,6.78
+337,EPL,Newcastle,Matt Ritchie,Midfielder,30,68,154,23.413062283737023,6.72
+339,EPL,Newcastle,Andy Carroll,Forward,31,76,174,21.17763157894737,6.75
+340,EPL,Newcastle,Joelinton,Forward,23,73,179,23.613623569149933,6.73
+341,EPL,Newcastle,Allan Saint-Maximin,Forward,23,68,148,22.500865051903116,7.18
+342,EPL,Norwich,Ralf Fährmann,Goalkeeper,31,77,209,24.78107606679035,6.08
+343,EPL,Norwich,Max Aarons,Defender,20,70,152,21.80734693877551,6.52
+344,EPL,Norwich,Grant Hanley,Defender,28,74,179,22.97972972972973,6.77
+346,EPL,Norwich,Christoph Zimmermann,Defender,27,76,203,24.707236842105264,6.68
+348,EPL,Norwich,Ondrej Duda,Midfielder,25,71,163,22.731402499504068,6.93
+350,EPL,Norwich,Kenny McLean,Midfielder,28,72,154,20.883873456790123,6.8
+351,EPL,Norwich,Marco Stiepermann,Midfielder,29,75,190,23.74577777777778,6.28
+352,EPL,Norwich,Tom Trybull,Midfielder,27,71,159,22.17357667129538,6.58
+353,EPL,Norwich,Josip Drmic,Forward,27,72,172,23.324845679012345,6.11
+354,EPL,Norwich,Teemu Pukki,Forward,30,71,176,24.544336441182306,6.7
+355,EPL,Norwich,Tim Krul,Goalkeeper,32,74,181,23.236486486486488,6.74
+356,EPL,Norwich,Michael McGovern,Goalkeeper,35,75,190,23.74577777777778,6.35
+357,EPL,Norwich,Sam Byram,Defender,26,71,159,22.17357667129538,6.77
+359,EPL,Norwich,Jamal Lewis,Defender,22,70,154,22.094285714285714,6.57
+360,EPL,Norwich,Todd Cantwell,Midfielder,22,70,146,20.9465306122449,6.71
+361,EPL,Norwich,Ben Godfrey,Midfielder,22,72,163,22.104359567901234,6.5
+362,EPL,Norwich,Moritz Leitner,Midfielder,27,69,152,22.44402436462928,6.49
+363,EPL,Norwich,Lukas Rupp,Midfielder,29,70,161,23.09857142857143,6.27
+364,EPL,Norwich,Alexander Tettey,Midfielder,34,71,150,20.91846855782583,6.6
+365,EPL,Norwich,Mario Vrancic,Midfielder,31,74,165,21.18243243243243,6.26
+366,EPL,Norwich,Adam Idah,Forward,19,75,183,22.870933333333333,5.94
+368,EPL,SheffUtd,Simon Moore,Goalkeeper,30,75,183,22.870933333333333,4.91
+369,EPL,SheffUtd,George Baldock,Defender,27,69,148,21.853392144507456,6.81
+370,EPL,SheffUtd,John Egan,Defender,27,73,159,20.97522987427285,6.89
+371,EPL,SheffUtd,Phil Jagielka,Defender,37,71,192,26.77563975401706,6.52
+373,EPL,SheffUtd,Enda Stevens,Defender,29,72,172,23.324845679012345,6.96
+374,EPL,SheffUtd,Sander Berge,Midfielder,22,75,194,24.24568888888889,6.75
+375,EPL,SheffUtd,John Fleck,Midfielder,28,67,159,24.900200490086878,6.99
+376,EPL,SheffUtd,John Lundstram,Midfielder,26,71,163,22.731402499504068,6.77
+377,EPL,SheffUtd,Ben Osborn,Midfielder,25,69,165,24.363579080025204,6.21
+378,EPL,SheffUtd,Leon Clarke,Forward,35,74,198,25.41891891891892,5.81
+379,EPL,SheffUtd,David McGoldrick,Forward,32,72,163,22.104359567901234,6.82
+380,EPL,SheffUtd,Billy Sharp,Forward,34,69,154,22.73934047469019,6.35
+381,EPL,SheffUtd,Dean Henderson,Goalkeeper,23,75,181,22.620977777777778,6.75
+383,EPL,SheffUtd,Chris Basham,Defender,31,71,176,24.544336441182306,7.0
+385,EPL,SheffUtd,Jack O'Connell,Defender,26,75,187,23.370844444444444,6.94
+387,EPL,SheffUtd,Muhamed Besic,Midfielder,27,70,172,24.676734693877552,6.33
+388,EPL,SheffUtd,Luke Freeman,Midfielder,28,69,143,21.11510186935518,6.36
+389,EPL,SheffUtd,Oliver Norwood,Midfielder,29,69,152,22.44402436462928,6.95
+391,EPL,SheffUtd,Oliver McBurnie,Forward,24,74,146,18.743243243243242,6.82
+392,EPL,SheffUtd,Lys Mousset,Forward,24,72,176,23.867283950617285,6.55
+394,EPL,Southampton,Angus Gunn,Goalkeeper,24,77,170,20.156856130882105,6.19
+395,EPL,Southampton,Alex McCarthy,Goalkeeper,30,76,174,21.17763157894737,6.72
+396,EPL,Southampton,Jan Bednarek,Defender,24,74,170,21.824324324324323,6.72
+397,EPL,Southampton,Kevin Danso,Defender,21,75,196,24.495644444444444,6.13
+399,EPL,Southampton,Yan Valery,Defender,21,71,187,26.0783574687562,6.31
+401,EPL,Southampton,Stuart Armstrong,Midfielder,28,72,165,22.375578703703702,6.49
+403,EPL,Southampton,Oriol Romeu,Midfielder,28,72,183,24.816550925925927,6.48
+404,EPL,Southampton,James Ward-Prowse,Midfielder,25,68,146,22.19679930795848,7.09
+405,EPL,Southampton,Che Adams,Forward,23,70,146,20.9465306122449,6.25
+406,EPL,Southampton,Danny Ings,Forward,27,70,161,23.09857142857143,6.94
+410,EPL,Southampton,Ryan Bertrand,Defender,30,70,187,26.828775510204082,6.54
+412,EPL,Southampton,Jack Stephens,Defender,26,73,165,21.76674798273597,6.59
+413,EPL,Southampton,Jannik Vestergaard,Defender,27,79,216,24.330716231373177,6.69
+414,EPL,Southampton,Kyle Walker-Peters,Defender,23,68,141,21.436634948096884,6.77
+415,EPL,Southampton,Sofiane Boufal,Midfielder,26,67,132,20.671864557807975,6.55
+416,EPL,Southampton,Nathan Redmond,Midfielder,26,68,152,23.108996539792386,6.78
+418,EPL,Southampton,Moussa Djenepo,Forward,21,70,143,20.51612244897959,6.78
+419,EPL,Southampton,Shane Long,Forward,33,70,154,22.094285714285714,6.76
+420,EPL,Southampton,Michael Obafemi,Forward,19,67,157,24.58699042102918,6.3
+421,EPL,Tottenham,Hugo Lloris,Goalkeeper,33,74,181,23.236486486486488,7.04
+423,EPL,Tottenham,Toby Alderweireld,Defender,31,73,179,23.613623569149933,6.79
+424,EPL,Tottenham,Davinson Sánchez,Defender,23,74,179,22.97972972972973,6.74
+425,EPL,Tottenham,Japhet Tanganga,Defender,21,73,183,24.14130230812535,7.0
+426,EPL,Tottenham,Dele Alli,Midfielder,24,74,168,21.56756756756757,6.96
+427,EPL,Tottenham,Gedson Fernandes,Midfielder,21,72,139,18.849729938271604,6.21
+428,EPL,Tottenham,Giovani Lo Celso,Midfielder,24,70,165,23.672448979591838,6.48
+430,EPL,Tottenham,Oliver Skipp,Midfielder,19,69,154,22.73934047469019,6.13
+431,EPL,Tottenham,Harry Winks,Midfielder,24,69,163,24.068262969964294,6.52
+432,EPL,Tottenham,Steven Bergwijn,Forward,22,70,163,23.385510204081633,6.96
+433,EPL,Tottenham,Troy Parrott,Forward,18,73,159,20.97522987427285,6.01
+434,EPL,Tottenham,Paulo Gazzaniga,Goalkeeper,28,77,198,23.476808905380334,6.65
+436,EPL,Tottenham,Serge Aurier,Defender,27,69,168,24.80655324511657,7.18
+437,EPL,Tottenham,Ben Davies,Defender,27,72,168,22.78240740740741,6.67
+438,EPL,Tottenham,Juan Foyth,Defender,22,74,170,21.824324324324323,6.05
+439,EPL,Tottenham,Ryan Sessegnon,Defender,20,70,157,22.52469387755102,6.32
+440,EPL,Tottenham,Jan Vertonghen,Defender,33,74,190,24.39189189189189,6.85
+441,EPL,Tottenham,Eric Dier,Midfielder,26,74,198,25.41891891891892,6.63
+442,EPL,Tottenham,Erik Lamela,Midfielder,28,71,176,24.544336441182306,6.68
+443,EPL,Tottenham,Lucas Moura,Midfielder,27,68,159,24.173226643598618,6.89
+444,EPL,Tottenham,Moussa Sissoko,Midfielder,30,74,201,25.804054054054053,6.68
+446,EPL,Tottenham,Harry Kane,Forward,26,74,216,27.72972972972973,7.3
+450,EPL,Watford,Craig Dawson,Defender,30,74,187,24.006756756756758,6.6
+451,EPL,Watford,José Holebas,Defender,35,73,179,23.613623569149933,6.5
+452,EPL,Watford,Christian Kabasele,Defender,29,74,190,24.39189189189189,6.85
+453,EPL,Watford,Adam Masina,Defender,26,75,192,23.995733333333334,6.86
+454,EPL,Watford,Nathaniel Chalobah,Midfielder,25,73,168,22.162507036967536,6.47
+456,EPL,Watford,Will Hughes,Midfielder,25,73,163,21.502908613248263,6.59
+457,EPL,Watford,Roberto Pereyra,Midfielder,29,72,170,23.053626543209877,6.38
+458,EPL,Watford,Troy Deeney,Forward,31,73,223,29.418089697879527,7.14
+459,EPL,Watford,Andre Gray,Forward,28,70,183,26.254897959183673,6.18
+461,EPL,Watford,Danny Welbeck,Forward,29,72,172,23.324845679012345,6.25
+462,EPL,Watford,Ben Foster,Goalkeeper,37,76,198,24.098684210526315,6.56
+463,EPL,Watford,Craig Cathcart,Defender,31,75,183,22.870933333333333,6.65
+464,EPL,Watford,Kiko Femenía,Defender,29,69,134,19.786179374081076,6.56
+465,EPL,Watford,Daryl Janmaat,Defender,30,73,176,23.21786451491837,6.73
+466,EPL,Watford,Adrian Mariappa,Defender,33,71,172,23.986510612973618,6.36
+468,EPL,Watford,Tom Cleverley,Midfielder,30,69,148,21.853392144507456,6.55
+469,EPL,Watford,Abdoulaye Doucouré,Midfielder,27,72,168,22.78240740740741,6.78
+471,EPL,Watford,Domingos Quina,Midfielder,20,68,159,24.173226643598618,6.08
+472,EPL,Watford,Gerard Deulofeu,Forward,26,70,161,23.09857142857143,6.9
+473,EPL,Watford,Ignacio Pussetto,Forward,24,71,163,22.731402499504068,6.26
+474,EPL,Watford,Isaac Success,Forward,24,72,190,25.765817901234566,5.96
+475,EPL,West Ham,David Martin,Goalkeeper,34,73,190,25.064740101332333,6.43
+476,EPL,West Ham,Fabián Balbuena,Defender,28,74,185,23.75,6.67
+477,EPL,West Ham,Aaron Cresswell,Defender,30,67,146,22.864335041211852,6.62
+478,EPL,West Ham,Arthur Masuaku,Defender,26,70,154,22.094285714285714,6.63
+479,EPL,West Ham,Angelo Ogbonna,Defender,32,75,190,23.74577777777778,6.69
+480,EPL,West Ham,Pablo Fornals,Midfielder,24,70,148,21.2334693877551,6.5
+481,EPL,West Ham,Manuel Lanzini,Midfielder,27,66,146,23.562442607897154,6.65
+482,EPL,West Ham,Declan Rice,Midfielder,21,73,176,23.21786451491837,6.95
+483,EPL,West Ham,Carlos Sánchez,Midfielder,34,72,181,24.545331790123456,6.14
+484,EPL,West Ham,Tomas Soucek,Midfielder,25,75,185,23.12088888888889,6.73
+485,EPL,West Ham,Albian Ajeti,Forward,23,72,165,22.375578703703702,5.97
+486,EPL,West Ham,Jarrod Bowen,Forward,23,69,154,22.73934047469019,6.83
+487,EPL,West Ham,Sébastien Haller,Forward,25,75,181,22.620977777777778,7.21
+488,EPL,West Ham,Lukasz Fabianski,Goalkeeper,35,75,183,22.870933333333333,6.64
+489,EPL,West Ham,Darren Randolph,Goalkeeper,33,74,216,27.72972972972973,6.31
+491,EPL,West Ham,Issa Diop,Defender,23,76,203,24.707236842105264,6.7
+492,EPL,West Ham,Pablo Zabaleta,Defender,35,69,163,24.068262969964294,6.42
+493,EPL,West Ham,Ryan Fredericks,Midfielder,27,71,163,22.731402499504068,6.77
+494,EPL,West Ham,Mark Noble,Midfielder,33,71,154,21.476294386034517,6.63
+495,EPL,West Ham,Robert Snodgrass,Midfielder,32,72,181,24.545331790123456,6.79
+496,EPL,West Ham,Jack Wilshere,Midfielder,28,67,143,22.394519937625308,5.99
+497,EPL,West Ham,Michail Antonio,Forward,30,71,181,25.241618726443168,7.09
+498,EPL,West Ham,Felipe Anderson,Forward,27,69,154,22.73934047469019,7.07
+499,EPL,West Ham,Andriy Yarmolenko,Forward,30,75,183,22.870933333333333,6.54
+500,EPL,Wolves,Rui Patrício,Goalkeeper,32,74,185,23.75,6.63
+501,EPL,Wolves,Willy Boly,Defender,29,77,214,25.37392477652218,7.25
+502,EPL,Wolves,Conor Coady,Defender,27,73,176,23.21786451491837,6.49
+504,EPL,Wolves,Rúben Vinagre,Defender,21,69,141,20.819785759294266,6.58
+505,EPL,Wolves,Morgan Gibbs-White,Midfielder,20,67,132,20.671864557807975,6.18
+508,EPL,Wolves,Diogo Jota,Forward,23,70,161,23.09857142857143,6.89
+509,EPL,Wolves,Pedro Neto,Forward,20,68,139,21.13256920415225,6.45
+512,EPL,Wolves,Matt Doherty,Defender,28,73,196,25.85625820979546,6.97
+514,EPL,Wolves,Leander Dendoncker,Midfielder,25,74,168,21.56756756756757,6.68
+517,EPL,Wolves,Rúben Neves,Midfielder,23,71,176,24.544336441182306,6.76
+518,EPL,Wolves,Romain Saïss,Midfielder,30,75,168,20.996266666666667,6.83
+519,EPL,Wolves,Adama Traoré,Midfielder,24,70,168,24.102857142857143,7.61
+521,EPL,Wolves,Raúl Jiménez,Forward,29,74,174,22.33783783783784,7.29
+522,EPL,Wolves,Daniel Podence,Forward,24,65,128,21.297988165680472,6.13
+525,MLS,Philadelphia Union,Brenden Aaronson,Midfielder,19,70,148,21.2334693877551,6.42
+526,MLS,FC Cincinnati,Saad Abdul-Salaam,Defender,28,76,185,22.51644736842105,6.26
+528,MLS,Colorado Rapids,Lalas Abubakar,Defender,25,73,185,24.40514167761306,6.06
+529,MLS,Nashville SC,David Accam,Forward,29,69,154,22.73934047469019,6.43
+533,MLS,LA Galaxy,Danilo Acosta,Defender,22,71,170,23.70759769886927,6.34
+534,MLS,FC Dallas,Bryan Acosta,Midfielder,26,68,161,24.47729238754325,6.89
+535,MLS,Colorado Rapids,Kellyn Acosta,Midfielder,24,70,150,21.520408163265305,6.55
+538,MLS,Columbus Crew SC,Fanendo Adi,Forward,29,76,185,22.51644736842105,6.31
+539,MLS,Vancouver Whitecaps FC,Ali Adnan,Defender,26,73,180,23.74554325389379,7.15
+540,MLS,Columbus Crew SC,Harrison Afful,Defender,33,66,128,20.657483930211203,6.68
+541,MLS,Inter Miami CF,Juan Agudelo,Forward,27,73,183,24.14130230812535,6.73
+544,MLS,Orlando City SC,Tesho Akindele,Forward,28,73,170,22.426346406455245,6.85
+545,MLS,Toronto FC,Ayo Akinola,Forward,20,70,182,26.111428571428572,6.25
+547,MLS,FC Cincinnati,Fatai Alashe,Midfielder,26,72,170,23.053626543209877,6.27
+549,MLS,Orlando City SC,Nani,Midfielder,33,70,146,20.9465306122449,7.29
+550,MLS,Minnesota United FC,Osvaldo Alonso,Midfielder,34,71,165,23.01031541360841,6.9
+551,MLS,Toronto FC,Jozy Altidore,Forward,30,72,175,23.73167438271605,7.14
+552,MLS,LA Galaxy,Efrain Alvarez,Midfielder,17,68,150,22.80493079584775,6.25
+554,MLS,FC Cincinnati,Frankie Amaya,Midfielder,19,64,145,24.886474609375,6.58
+555,MLS,Inter Miami CF,Mikey Ambrose,Defender,26,69,165,24.363579080025204,6.53
+556,MLS,Colorado Rapids,Sebastian Anderson,Defender,17,69,140,20.67212770426381,6.22
+558,MLS,Nashville SC,Jalil Anibaba,Defender,31,72,185,25.087770061728396,6.64
+560,MLS,FC Dallas,Pablo Aranguiz,Midfielder,23,68,143,21.74070069204152,6.44
+561,MLS,LA Galaxy,Julian Araujo,Defender,18,69,154,22.73934047469019,6.54
+562,MLS,New York City FC,Heber,Forward,28,71,170,23.70759769886927,7.12
+563,MLS,Inter Miami CF,Luis Argudo,Midfielder,24,69,150,22.14870825456837,6.47
+564,MLS,Seattle Sounders FC,Xavier Arreaga,Defender,25,72,165,22.375578703703702,6.37
+565,MLS,Real Salt Lake,Luis Arriaga,Midfielder,19,67,137,21.454889730452216,6.07
+566,MLS,D.C. United,Paul Arriola,Midfielder,25,66,146,23.562442607897154,6.71
+568,MLS,Portland Timbers,Dairon Asprilla,Midfielder,27,71,165,23.01031541360841,6.39
+569,MLS,Portland Timbers,Jeff Attinella,Goalkeeper,31,74,190,24.39189189189189,6.56
+570,MLS,FC Dallas,Francis Atuahene,Forward,23,69,170,25.101869355177485,6.96
+571,MLS,Los Angeles Football Club,Eduard Atuesta,Midfielder,22,71,155,21.61575084308669,7.57
+572,MLS,Chicago Fire FC,Micheal Azira,Midfielder,32,70,160,22.955102040816328,6.41
+573,MLS,Nashville SC,Dominique Badji,Forward,27,72,170,23.053626543209877,6.78
+575,MLS,Vancouver Whitecaps FC,Theo Bair,Forward,20,76,215,26.167763157894736,6.42
+576,MLS,Real Salt Lake,Corey Baird,Forward,24,70,160,22.955102040816328,6.58
+578,MLS,Sporting Kansas City,Botond Barath,Defender,28,74,165,21.18243243243243,6.54
+579,MLS,Orlando City SC,Robinho,Midfielder,25,65,148,24.625798816568047,6.38
+580,MLS,New York Red Bulls,Tom Barlow,Forward,24,74,185,23.75,6.49
+582,MLS,FC Dallas,Michael Barrios,Midfielder,29,64,132,22.6552734375,7.16
+583,MLS,Colorado Rapids,Cole Bassett,Midfielder,18,71,130,18.129339416782383,6.45
+584,MLS,Montreal Impact,Clement Bayiha,Midfielder/Defender,21,68,155,23.565095155709344,6.39
+587,MLS,Real Salt Lake,Kyle Beckerman,Midfielder,38,71,165,23.01031541360841,6.67
+588,MLS,Philadelphia Union,Alejandro Bedoya,Midfielder,33,70,161,23.09857142857143,6.87
+590,MLS,Philadelphia Union,Joe Bendik,Goalkeeper,31,74,217,27.85810810810811,6.1
+591,MLS,Colorado Rapids,Nicolas Benezet,Midfielder,29,65,134,22.296331360946745,6.64
+595,MLS,Sporting Kansas City,Matt Besler,Defender,33,72,170,23.053626543209877,6.44
+596,MLS,Real Salt Lake,Nick Besler,Midfielder,26,73,165,21.76674798273597,6.46
+598,MLS,Real Salt Lake,Everton Luiz,Midfielder,31,68,154,23.413062283737023,6.71
+600,MLS,LA Galaxy,David Bingham,Goalkeeper,30,74,189,24.263513513513512,6.87
+602,MLS,D.C. United,Steven Birnbaum,Defender,29,74,180,23.10810810810811,6.98
+603,MLS,Houston Dynamo,Jose Bizama,Defender,25,71,165,23.01031541360841,6.42
+604,MLS,Philadelphia Union,Andre Blake,Goalkeeper,29,76,175,21.299342105263158,6.32
+605,MLS,Portland Timbers,Sebastian Blanco,Midfielder,32,67,150,23.490755179327245,7.25
+606,MLS,Los Angeles Football Club,Latif Blessing,Midfielder,23,67,104,16.28692359100022,7.19
+607,MLS,D.C. United,Emmanuel Boateng,Midfielder,26,66,150,24.207988980716255,6.03
+609,MLS,Toronto FC,Alex Bono,Goalkeeper,26,75,195,24.370666666666665,6.46
+610,MLS,Chicago Fire FC,Jonathan Bornstein,Defender,35,68,165,25.085423875432525,6.74
+611,MLS,New England Revolution,Gustavo Bou,Forward,30,70,160,22.955102040816328,7.26
+612,MLS,Minnesota United FC,Michael Boxall,Defender,31,74,200,25.675675675675677,6.93
+613,MLS,Toronto FC,Michael Bradley,Midfielder,32,74,179,22.97972972972973,6.77
+615,MLS,Montreal Impact,Zachary Brault-Guillard,Defender,21,67,145,22.707730006683004,6.61
+616,MLS,FC Dallas,Bressan,Defender,27,72,174,23.596064814814813,6.74
+617,MLS,D.C. United,Frederic Brillant,Defender,34,75,156,19.496533333333332,7.04
+618,MLS,Chicago Fire FC,Brandt Bronico,Midfielder,24,68,155,23.565095155709344,6.58
+619,MLS,Seattle Sounders FC,Will Bruin,Forward,30,74,194,24.905405405405407,6.47
+620,MLS,New England Revolution,Tajon Buchanan,Forward,21,72,152,20.612654320987655,6.1
+622,MLS,New England Revolution,Teal Bunbury,Midfielder/Forward,30,74,185,23.75,6.67
+624,MLS,Philadelphia Union,Cory Burke,Forward,28,75,180,22.496,6.73
+625,MLS,Montreal Impact,Evan Bush,Goalkeeper,34,73,186,24.537061362356916,6.41
+626,MLS,Sporting Kansas City,Gianluca Busio,Midfielder,17,67,135,21.14167966139452,6.48
+628,MLS,Seattle Sounders FC,Handwalla Bwana,Midfielder,22,69,145,21.41041797941609,6.46
+629,MLS,New England Revolution,Brandon Bye,Defender,24,72,185,25.087770061728396,6.9
+630,MLS,Houston Dynamo,Victor Cabrera,Defender,27,72,165,22.375578703703702,6.8
+633,MLS,New England Revolution,Scott Caldwell,Midfielder,29,68,150,22.80493079584775,6.37
+636,MLS,New York City FC,Alexander Callens,Defender,27,73,180,23.74554325389379,6.77
+637,MLS,San Jose Earthquakes,Eric Calvillo,Midfielder,22,67,140,21.92470483403876,6.01
+638,MLS,Montreal Impact,Rudy Camacho,Defender,29,73,174,22.954025145430663,6.65
+640,MLS,FC Dallas,Reggie Cannon,Defender,21,71,165,23.01031541360841,6.58
+641,MLS,D.C. United,Russell Canouse,Midfielder,24,70,159,22.811632653061224,6.89
+642,MLS,Atlanta United FC,Andrew Carleton,Forward,19,67,145,22.707730006683004,6.07
+645,MLS,Portland Timbers,Julio Cascante,Defender,26,74,170,21.824324324324323,6.45
+646,MLS,New York City FC,Valentin Castellanos,Forward,21,70,154,22.094285714285714,7.09
+647,MLS,Atlanta United FC,Edgar Castillo,Defender,33,67,145,22.707730006683004,6.8
+649,MLS,Houston Dynamo,Darwin Ceren,Midfielder,30,70,165,23.672448979591838,6.38
+650,MLS,FC Dallas,Edwin Cerrillo,Midfielder,19,70,180,25.824489795918367,6.54
+651,MLS,Minnesota United FC,Thomas Chacon,Midfielder,19,65,128,21.297988165680472,6.26
+653,MLS,New York City FC,Maxime Chanot,Defender,30,73,172,22.690185775942954,6.94
+654,MLS,Inter Miami CF,Jay Chapman,Midfielder,26,72,157,21.290702160493826,6.36
+655,MLS,Portland Timbers,Diego Chara,Midfielder,34,68,150,22.80493079584775,6.81
+657,MLS,Montreal Impact,Mathieu Choiniere,Midfielder,21,66,150,24.207988980716255,6.37
+659,MLS,Toronto FC,Laurent Ciman,Defender,34,72,155,21.019483024691358,6.62
+660,MLS,Portland Timbers,Steve Clark,Goalkeeper,34,74,192,24.64864864864865,6.96
+663,MLS,Philadelphia Union,Aurelien Collin,Defender,34,74,169,21.695945945945947,6.66
+664,MLS,Orlando City SC,Josue Colman,Midfielder,21,66,156,25.176308539944902,6.38
+666,MLS,Portland Timbers,Tomas Conechny,Midfielder,22,67,150,23.490755179327245,6.3
+667,MLS,Vancouver Whitecaps FC,Derek Cornelius,Defender,22,74,190,24.39189189189189,6.44
+668,MLS,LA Galaxy,Joe Corona,Midfielder,29,68,155,23.565095155709344,6.89
+669,MLS,Montreal Impact,Jorge Corrales,Defender,28,69,150,22.14870825456837,6.33
+671,MLS,Philadelphia Union,Warren Creavalle,Midfielder,29,71,170,23.70759769886927,6.2
+672,MLS,Vancouver Whitecaps FC,Maxime Crepeau,Goalkeeper,25,71,199,27.751834953382264,7.11
+673,MLS,Houston Dynamo,Cody Cropper,Goalkeeper,27,76,200,24.342105263157894,6.74
+674,MLS,FC Cincinnati,Allan Cruz,Midfielder,24,65,145,24.12662721893491,6.75
+675,MLS,LA Galaxy,Emil Cuello,Midfielder,23,71,165,23.01031541360841,6.13
+676,MLS,Toronto FC,Auro,Defender,24,66,136,21.948576675849402,6.81
+677,MLS,Los Angeles Football Club,Danilo Silva,Defender,33,73,154,20.315631450553575,6.58
+679,MLS,FC Cincinnati,Rashawn Dally,Forward,23,74,200,25.675675675675677,6.15
+680,MLS,Nashville SC,Abu Danladi,Forward,24,70,170,24.389795918367348,6.28
+681,MLS,New York Red Bulls,Sean Davis,Midfielder,27,72,165,22.375578703703702,6.9
+683,MLS,Columbus Crew SC,Artur,Midfielder,24,71,154,21.476294386034517,6.57
+686,MLS,New England Revolution,Antonio Mlinar Delamea,Defender,28,72,160,21.69753086419753,6.7
+687,MLS,Seattle Sounders FC,Jordy Delem,Midfielder,27,71,156,21.75520730013886,6.49
+688,MLS,Toronto FC,Nick DeLeon,Midfielder,29,70,170,24.389795918367348,6.73
+690,MLS,FC Cincinnati,Mathieu Deplagne,Defender,28,72,168,22.78240740740741,6.49
+693,MLS,Seattle Sounders FC,Justin Dhillon,Forward,24,75,185,23.12088888888889,6.25
+695,MLS,Columbus Crew SC,Luis Diaz,Midfielder,21,71,159,22.17357667129538,6.77
+696,MLS,Sporting Kansas City,Eric Dick,Goalkeeper,25,77,205,24.306797099004893,5.08
+699,MLS,Los Angeles Football Club,Adama Diomande,Forward,30,71,180,25.102162269390995,7.03
+700,MLS,Montreal Impact,Clement Diop,Goalkeeper,26,73,165,21.76674798273597,6.91
+701,MLS,Toronto FC,Griffin Dorsey,Midfielder,21,72,160,21.69753086419753,5.88
+702,MLS,LA Galaxy,Jonathan dos Santos,Midfielder,30,68,160,24.325259515570934,7.24
+703,MLS,Minnesota United FC,Hassani Dotson,Midfielder,22,71,170,23.70759769886927,6.75
+707,MLS,New York Red Bulls,Kyle Duncan,Defender,22,70,139,19.942244897959185,7.07
+709,MLS,Portland Timbers,Chris Duvall,Defender,28,70,165,23.672448979591838,6.65
+710,MLS,Orlando City SC,Dom Dwyer,Forward,29,69,180,26.578449905482042,6.54
+711,MLS,Portland Timbers,Jeremy Ebobisse,Forward,23,72,175,23.73167438271605,6.76
+712,MLS,Minnesota United FC,Raheem Edwards,Midfielder,24,69,148,21.853392144507456,6.97
+717,MLS,Los Angeles Football Club,Mohamed El-Munir,Defender,28,69,154,22.73934047469019,6.86
+718,MLS,Philadelphia Union,Jack Elliott,Defender,24,77,180,21.34255355034576,6.88
+720,MLS,Toronto FC,Tsubasa Endoh,Midfielder,26,68,146,22.19679930795848,6.69
+721,MLS,San Jose Earthquakes,Magnus Eriksson,Forward,30,71,180,25.102162269390995,7.08
+722,MLS,San Jose Earthquakes,Cristian Espinoza,Midfielder,25,67,154,24.117175317442637,7.2
+723,MLS,Sporting Kansas City,Roger Espinoza,Midfielder,33,71,170,23.70759769886927,6.5
+726,MLS,New England Revolution,Diego Fagundez,Midfielder,25,68,140,21.284602076124568,6.34
+727,MLS,Montreal Impact,Rod Fanni,Defender,38,73,179,23.613623569149933,7.24
+728,MLS,Portland Timbers,Marco Farfan,Defender,21,69,150,22.14870825456837,6.67
+729,MLS,New England Revolution,Andrew Farrell,Defender,28,71,185,25.799444554651856,6.55
+731,MLS,LA Galaxy,Rolf Feltscher,Defender,29,71,163,22.731402499504068,6.82
+734,MLS,FC Dallas,Jesus Ferreira,Forward,19,68,140,21.284602076124568,6.77
+735,MLS,San Jose Earthquakes,Carlos Fierro,Midfielder,25,69,146,21.558076034446543,6.15
+737,MLS,Houston Dynamo,Maynor Figueroa,Defender,36,71,187,26.0783574687562,6.63
+738,MLS,Minnesota United FC,Ethan Finlay,Midfielder,29,69,165,24.363579080025204,6.47
+741,MLS,Portland Timbers,Andres Flores,Midfielder,29,66,150,24.207988980716255,6.45
+743,MLS,Philadelphia Union,Anthony Fontana,Midfielder,20,68,150,22.80493079584775,6.28
+744,MLS,Sporting Kansas City,Andreu Fontas,Defender,30,73,190,25.064740101332333,6.45
+746,MLS,Columbus Crew SC,Waylon Francis,Defender,29,69,160,23.625288804872927,6.67
+747,MLS,Chicago Fire FC,Przemyslaw Frankowski,Midfielder,25,68,155,23.565095155709344,7.0
+748,MLS,Toronto FC,Liam Fraser,Midfielder,22,73,179,23.613623569149933,6.68
+750,MLS,Philadelphia Union,Matt Freese,Goalkeeper,21,76,195,23.73355263157895,6.56
+751,MLS,Seattle Sounders FC,Stefan Frei,Goalkeeper,34,75,195,24.370666666666665,6.71
+752,MLS,San Jose Earthquakes,Gilbert Fuentes,Midfielder,18,66,140,22.594123048668504,6.22
+753,MLS,Philadelphia Union,Raymon Gaddis,Defender,30,69,151,22.296366309598824,6.54
+755,MLS,Toronto FC,Erickson Gallardo,Midfielder,23,68,150,22.80493079584775,6.41
+758,MLS,FC Cincinnati,Greg Garza,Defender,28,68,154,23.413062283737023,6.52
+759,MLS,Minnesota United FC,Chase Gasper,Defender,24,72,185,25.087770061728396,6.96
+760,MLS,New England Revolution,Carles Gil,Midfielder,27,67,145,22.707730006683004,7.3
+763,MLS,Real Salt Lake,Justen Glad,Defender,23,73,160,21.1071495590167,6.74
+765,MLS,Vancouver Whitecaps FC,Erik Godoy,Defender,26,74,175,22.466216216216218,6.62
+766,MLS,Nashville SC,Anibal Godoy,Midfielder,30,72,165,22.375578703703702,6.81
+768,MLS,LA Galaxy,Giancarlo Gonzalez,Defender,32,73,185,24.40514167761306,6.44
+769,MLS,Toronto FC,Omar Gonzalez,Defender,31,77,205,24.306797099004893,6.86
+770,MLS,FC Dallas,Jesse Gonzalez,Goalkeeper,24,76,180,21.907894736842106,6.59
+772,MLS,Minnesota United FC,Jan Gregus,Midfielder,29,75,170,21.246222222222222,7.31
+773,MLS,D.C. United,Julian Gressel,Midfielder,26,73,185,24.40514167761306,7.19
+778,MLS,Chicago Fire FC,Jeremiah Gutjahr,Midfielder,22,70,160,22.955102040816328,6.36
+779,MLS,FC Cincinnati,Andrew Gutman,Defender,23,72,170,23.053626543209877,6.25
+780,MLS,Atlanta United FC,Brad Guzan,Goalkeeper,35,76,209,25.4375,6.71
+781,MLS,FC Cincinnati,Joseph-Claude Gyau,Midfielder,27,69,165,24.363579080025204,6.22
+782,MLS,New York City FC,Justin Haak,Midfielder,18,72,165,22.375578703703702,6.02
+784,MLS,FC Cincinnati,Nick Hagglund,Defender,27,73,193,25.460499155563895,6.61
+785,MLS,Minnesota United FC,Marlon Hairston,Midfielder,26,72,157,21.290702160493826,6.18
+786,MLS,San Jose Earthquakes,Siad Haji,Midfielder,20,68,150,22.80493079584775,6.13
+787,MLS,D.C. United,Bill Hamid,Goalkeeper,29,75,225,28.12,6.97
+788,MLS,Columbus Crew SC,Jordan Hamilton,Forward,24,72,194,26.308256172839506,6.08
+789,MLS,Houston Dynamo,Niko Hansen,Midfielder,25,70,170,24.389795918367348,6.05
+790,MLS,Los Angeles Football Club,Jordan Harvey,Defender,36,71,170,23.70759769886927,6.77
+792,MLS,Minnesota United FC,Jacori Hayes,Midfielder,24,67,150,23.490755179327245,6.35
+793,MLS,FC Dallas,Matt Hedges,Defender,30,76,185,22.51644736842105,6.82
+794,MLS,Chicago Fire FC,Fabian Herbers,Midfielder,26,72,165,22.375578703703702,6.46
+795,MLS,Sporting Kansas City,Felipe Hernandez,Midfielder,21,67,135,21.14167966139452,5.6
+797,MLS,Real Salt Lake,Aaron Herrera,Defender,22,71,160,22.31303312834755,6.86
+798,MLS,D.C. United,Federico Higuain,Midfielder,35,68,165,25.085423875432525,6.81
+799,MLS,San Jose Earthquakes,Danny Hoesen,Forward,29,73,165,21.76674798273597,6.44
+800,MLS,FC Dallas,Ryan Hollingshead,Defender,29,73,180,23.74554325389379,7.22
+801,MLS,Real Salt Lake,Erik Holt,Defender,23,73,185,24.40514167761306,6.58
+803,MLS,Sporting Kansas City,Erik Hurtado,Forward,29,70,175,25.107142857142858,6.4
+805,MLS,Atlanta United FC,Emerson Hyndman,Midfielder,24,69,135,19.93383742911153,6.43
+806,MLS,Minnesota United FC,Romario Ibarra,Midfielder,25,69,160,23.625288804872927,6.54
+808,MLS,New York City FC,Sebastien Ibeagha,Defender,28,74,187,24.006756756756758,6.32
+811,MLS,Colorado Rapids,Clint Irwin,Goalkeeper,31,75,195,24.370666666666665,6.91
+813,MLS,Colorado Rapids,Niki Jackson,Forward,24,73,175,23.085944830174515,6.07
+814,MLS,Montreal Impact,Anthony Jackson-Hamel,Forward,26,73,180,23.74554325389379,6.41
+816,MLS,Los Angeles Football Club,Dejan Jakovic,Defender,34,74,186,23.87837837837838,6.69
+818,MLS,Columbus Crew SC,Hector Jimenez,Midfielder,31,69,140,20.67212770426381,6.44
+819,MLS,Real Salt Lake,Sam Johnson,Forward,26,71,163,22.731402499504068,6.55
+820,MLS,New York City FC,Sean Johnson,Goalkeeper,30,75,217,27.120177777777776,6.69
+823,MLS,Seattle Sounders FC,Joevin Jones,Defender/Midfielder,28,71,160,22.31303312834755,6.65
+824,MLS,New England Revolution,DeJuan Jones,Midfielder,22,69,165,24.363579080025204,6.54
+825,MLS,San Jose Earthquakes,Florian Jungwirth,Defender,31,71,174,24.26542352707796,6.9
+827,MLS,Minnesota United FC,Brent Kallman,Defender,29,74,190,24.39189189189189,6.61
+828,MLS,Colorado Rapids,Kei Kamara,Forward,35,75,190,23.74577777777778,7.3
+829,MLS,D.C. United,Ola Kamara,Forward,30,72,181,24.545331790123456,6.77
+831,MLS,Chicago Fire FC,Johan Kappelhof,Defender,29,71,165,23.01031541360841,6.61
+832,MLS,San Jose Earthquakes,Guram Kashia,Defender,32,73,172,22.690185775942954,6.73
+833,MLS,LA Galaxy,Aleksandar Katai,Midfielder,29,72,155,21.019483024691358,7.14
+834,MLS,Los Angeles Football Club,Mark-Anthony Kaye,Midfielder,25,74,154,19.77027027027027,7.32
+835,MLS,Columbus Crew SC,Aboubacar Keita,Defender,20,74,180,23.10810810810811,6.54
+837,MLS,Columbus Crew SC,Jon Kempin,Goalkeeper,27,73,170,22.426346406455245,5.91
+839,MLS,Vancouver Whitecaps FC,Jasser Khmiri,Defender,22,76,187,22.75986842105263,7.07
+842,MLS,LA Galaxy,Perry Kitchen,Midfielder,28,72,160,21.69753086419753,6.93
+843,MLS,LA Galaxy,Sacha Kljestan,Midfielder,34,73,155,20.44755113529743,6.52
+844,MLS,New England Revolution,Brad Knighton,Goalkeeper,35,74,180,23.10810810810811,6.24
+845,MLS,Real Salt Lake,Damir Kreilach,Midfielder,31,73,174,22.954025145430663,7.1
+847,MLS,Chicago Fire FC,Kenneth Kronholm,Goalkeeper,34,75,183,22.870933333333333,6.47
+851,MLS,Columbus Crew SC,Matt Lampson,Goalkeeper,30,75,200,24.995555555555555,6.05
+853,MLS,Montreal Impact,Lassi Lappalainen,Midfielder,21,72,175,23.73167438271605,6.7
+854,MLS,Atlanta United FC,Jeff Larentowicz,Midfielder/Defender,36,73,175,23.085944830174515,6.47
+855,MLS,Toronto FC,Richie Laryea,Defender,25,69,150,22.14870825456837,6.73
+857,MLS,Seattle Sounders FC,Kelvin Leerdam,Defender,29,70,154,22.094285714285714,6.91
+859,MLS,Atlanta United FC,Brooks Lennon,Defender,22,70,155,22.237755102040815,6.43
+860,MLS,Colorado Rapids,Jonathan Lewis,Midfielder,22,67,150,23.490755179327245,6.24
+861,MLS,Seattle Sounders FC,Danny Leyva,Midfielder,16,70,140,20.085714285714285,6.45
+862,MLS,Inter Miami CF,Grant Lillard,Defender,24,76,195,23.73355263157895,6.19
+863,MLS,San Jose Earthquakes,Nick Lima,Defender,25,69,177,26.135475740390675,6.56
+864,MLS,Sporting Kansas City,Jaylin Lindsey,Defender,20,68,155,23.565095155709344,5.25
+865,MLS,LA Galaxy,Sebastian Lletget,Midfielder,27,70,165,23.672448979591838,6.99
+867,MLS,Minnesota United FC,Robin Lod,Midfielder,27,71,168,23.42868478476493,6.52
+870,MLS,New York Red Bulls,Aaron Long,Defender,27,73,175,23.085944830174515,6.87
+872,MLS,San Jose Earthquakes,Marcos Lopez,Defender,20,69,148,21.853392144507456,6.63
+873,MLS,Portland Timbers,Marvin Loria,Midfielder,23,70,170,24.389795918367348,6.55
+874,MLS,Nashville SC,Daniel Lovitz,Defender,28,70,170,24.389795918367348,6.72
+875,MLS,Houston Dynamo,Adam Lundkvist,Defender,26,69,143,21.11510186935518,6.72
+877,MLS,Portland Timbers,Larrys Mabiala,Defender,32,74,185,23.75,6.66
+878,MLS,New York City FC,Gary Mackay-Steven,Midfielder,29,69,154,22.73934047469019,6.5
+879,MLS,Real Salt Lake,Zac MacMath,Goalkeeper,28,74,190,24.39189189189189,6.82
+882,MLS,New England Revolution,Michael Mancienne,Defender,32,73,190,25.064740101332333,6.53
+883,MLS,FC Cincinnati,Kekuta Manneh,Forward,25,69,140,20.67212770426381,6.46
+886,MLS,San Jose Earthquakes,Paul Marie,Defender,25,68,142,21.588667820069205,6.46
+888,MLS,Real Salt Lake,Douglas Martinez,Forward,22,72,132,17.900462962962962,6.14
+889,MLS,Houston Dynamo,Tomas Martinez,Midfielder,25,68,145,22.04476643598616,6.7
+891,MLS,D.C. United,Felipe,Midfielder,29,69,150,22.14870825456837,6.31
+892,MLS,Sporting Kansas City,Luis Martins,Defender,27,69,150,22.14870825456837,6.23
+893,MLS,New York City FC,Ronald Matarrita,Defender,25,69,154,22.73934047469019,7.01
+894,MLS,FC Cincinnati,Darren Mattocks,Forward,29,70,155,22.237755102040815,6.65
+895,MLS,FC Dallas,Jimmy Maurer,Goalkeeper,31,74,185,23.75,7.17
+896,MLS,Toronto FC,Chris Mavinga,Defender,28,73,172,22.690185775942954,6.67
+897,MLS,Philadelphia Union,Olivier Mbaizo,Defender,22,70,155,22.237755102040815,6.85
+900,MLS,Nashville SC,Dax McCarty,Midfielder,33,69,150,22.14870825456837,6.85
+903,MLS,Philadelphia Union,Mark McKenzie,Defender,21,71,185,25.799444554651856,6.41
+906,MLS,New York Red Bulls,Ryan Meara,Goalkeeper,29,76,185,22.51644736842105,6.99
+907,MLS,New York City FC,Jesus Medina,Midfielder,23,70,154,22.094285714285714,6.35
+910,MLS,FC Cincinnati,Haris Medunjanin,Midfielder,35,74,183,23.493243243243242,6.98
+911,MLS,Sporting Kansas City,Tim Melia,Goalkeeper,33,73,190,25.064740101332333,6.65
+912,MLS,Columbus Crew SC,Jonathan Mensah,Defender,29,74,183,23.493243243243242,6.53
+913,MLS,Real Salt Lake,Justin Meram,Midfielder,31,73,165,21.76674798273597,6.24
+915,MLS,Minnesota United FC,Romain Metanire,Defender,30,70,159,22.811632653061224,7.13
+917,MLS,Colorado Rapids,Nicolas Mezquida,Midfielder,28,66,150,24.207988980716255,6.6
+918,MLS,Orlando City SC,Benji Michel,Forward,22,70,165,23.672448979591838,6.56
+919,MLS,Chicago Fire FC,Djordje Mihailovic,Midfielder,21,70,153,21.950816326530614,6.66
+921,MLS,Nashville SC,Eric Miller,Defender,27,73,175,23.085944830174515,6.26
+922,MLS,Minnesota United FC,Tyler Miller,Goalkeeper,27,76,195,23.73355263157895,6.67
+923,MLS,Orlando City SC,Kamal Miller,Defender,22,72,185,25.087770061728396,6.58
+925,MLS,New York City FC,Alexandru Mitrita,Midfielder,25,65,145,24.12662721893491,7.15
+926,MLS,Columbus Crew SC,Youness Mokhtar,Midfielder,28,70,165,23.672448979591838,6.77
+927,MLS,Minnesota United FC,Kevin Molino,Midfielder,29,71,145,20.221186272564967,6.97
+929,MLS,Philadelphia Union,Jamiro Monteiro,Midfielder,26,68,137,20.828503460207614,7.29
+930,MLS,Vancouver Whitecaps FC,Fredy Montero,Forward,32,69,165,24.363579080025204,6.71
+932,MLS,Colorado Rapids,Drew Moor,Defender,36,72,165,22.375578703703702,6.36
+934,MLS,D.C. United,Joseph Mora,Defender,27,69,132,19.490863264020163,6.8
+935,MLS,New York City FC,Maximiliano Moralez,Midfielder,33,63,115,20.369110607205844,7.24
+936,MLS,Portland Timbers,Jorge Moreira,Defender,30,68,165,25.085423875432525,7.18
+937,MLS,D.C. United,Junior Moreno,Midfielder,26,69,154,22.73934047469019,6.8
+938,MLS,Real Salt Lake,Ashtone Morgan,Defender,29,69,156,23.034656584751104,6.05
+941,MLS,Seattle Sounders FC,Jordan Morris,Forward,25,71,185,25.799444554651856,7.16
+942,MLS,Toronto FC,Justin Morrow,Defender,32,69,153,22.591682419659737,6.68
+943,MLS,FC Dallas,Santiago Mosquera,Midfielder,25,66,185,29.85651974288338,6.74
+944,MLS,Orlando City SC,Joao Moutinho,Defender,22,72,156,21.15509259259259,6.77
+945,MLS,Orlando City SC,Chris Mueller,Midfielder,23,69,169,24.954211300147026,6.65
+947,MLS,Vancouver Whitecaps FC,Georges Mukumbilwa,Midfielder/Defender,20,71,160,22.31303312834755,6.04
+948,MLS,Real Salt Lake,Luke Mulholland,Midfielder,31,69,150,22.14870825456837,6.2
+949,MLS,Toronto FC,Patrick Mullins,Forward,28,73,175,23.085944830174515,6.05
+954,MLS,New York Red Bulls,Alex Muyl,Midfielder,24,71,175,24.404879984130133,6.71
+955,MLS,Columbus Crew SC,Darlington Nagbe,Midfielder,29,69,165,24.363579080025204,6.97
+961,MLS,New York Red Bulls,Sean Nealis,Defender,23,76,185,22.51644736842105,6.57
+964,MLS,FC Dallas,John Nelson,Defender,21,69,160,23.625288804872927,6.45
+965,MLS,Vancouver Whitecaps FC,Jake Nerwinski,Defender,25,72,175,23.73167438271605,6.64
+966,MLS,Philadelphia Union,Michee Ngalina,Forward,20,71,150,20.91846855782583,5.87
+967,MLS,Inter Miami CF,Lee Nguyen,Midfielder,33,68,150,22.80493079584775,6.54
+968,MLS,Colorado Rapids,Sam Nicholson,Midfielder,25,69,157,23.18231463978156,6.64
+972,MLS,Seattle Sounders FC,Shane O'Neill,Defender,26,74,190,24.39189189189189,6.59
+973,MLS,Seattle Sounders FC,Alfonso Ocampo-Chavez,Forward,18,70,142,20.37265306122449,6.18
+976,MLS,D.C. United,Chris Odoi-Atsem,Defender,24,70,150,21.520408163265305,6.35
+978,MLS,Montreal Impact,Orji Okwonkwo,Midfielder,22,68,160,24.325259515570934,6.74
+980,MLS,FC Dallas,Zdenek Ondrasek,Forward,31,73,174,22.954025145430663,6.69
+981,MLS,Real Salt Lake,Nedum Onuoha,Defender,33,72,210,28.47800925925926,6.72
+982,MLS,Minnesota United FC,Ike Opara,Defender,31,74,180,23.10810810810811,7.04
+985,MLS,Toronto FC,Jonathan Osorio,Midfielder,27,69,161,23.77294685990338,6.73
+987,MLS,Los Angeles Football Club,Diego Palacios,Defender,20,67,143,22.394519937625308,6.37
+992,MLS,Portland Timbers,Cristhian Paredes,Midfielder,21,72,155,21.019483024691358,6.85
+993,MLS,New York Red Bulls,Tim Parker,Defender,27,74,195,25.033783783783782,6.47
+994,MLS,New York City FC,Keaton Parks,Midfielder,22,75,178,22.246044444444443,6.74
+1001,MLS,New England Revolution,Cristian Penilla,Forward,28,69,165,24.363579080025204,6.79
+1002,MLS,FC Dallas,Ricardo Pepi,Forward,17,73,170,22.426346406455245,6.16
+1003,MLS,Orlando City SC,Mauricio Pereyra,Midfielder,30,67,145,22.707730006683004,6.94
+1004,MLS,Los Angeles Football Club,Adrien Perez,Forward,24,72,170,23.053626543209877,6.22
+1009,MLS,Montreal Impact,Samuel Piette,Midfielder,25,67,174,27.249276008019603,6.68
+1011,MLS,D.C. United,Donovan Pines,Defender,22,77,195,23.12109967954124,7.12
+1013,MLS,Portland Timbers,Andy Polo,Midfielder,25,68,155,23.565095155709344,6.3
+1014,MLS,FC Dallas,Paxton Pomykal,Midfielder,20,67,145,22.707730006683004,6.97
+1016,MLS,Inter Miami CF,Alvas Powell,Defender,25,72,165,22.375578703703702,6.66
+1017,MLS,Toronto FC,Alejandro Pozuelo,Midfielder,28,67,140,21.92470483403876,7.41
+1018,MLS,Colorado Rapids,Jack Price,Midfielder,27,67,152,23.80396524838494,7.0
+1019,MLS,Philadelphia Union,Kacper Przybylko,Forward,27,76,194,23.611842105263158,7.51
+1023,MLS,Real Salt Lake,Andrew Putna,Goalkeeper,25,74,180,23.10810810810811,6.82
+1025,MLS,Houston Dynamo,Darwin Quintero,Forward,32,65,142,23.627455621301774,7.08
+1027,MLS,Montreal Impact,Jukka Raitala,Defender,31,71,174,24.26542352707796,6.38
+1028,MLS,Houston Dynamo,Christian Ramirez,Forward,29,74,187,24.006756756756758,6.73
+1030,MLS,Minnesota United FC,Greg Ranjitsingh,Goalkeeper,26,75,195,24.370666666666665,6.64
+1036,MLS,New England Revolution,Justin Rennicks,Forward,21,71,165,23.01031541360841,5.97
+1038,MLS,Vancouver Whitecaps FC,Yordy Reyna,Midfielder/Forward,26,67,145,22.707730006683004,6.83
+1039,MLS,FC Dallas,Bryan Reynolds,Defender,18,75,170,21.246222222222222,6.07
+1041,MLS,FC Cincinnati,Spencer Richey,Goalkeeper,27,74,195,25.033783783783782,6.53
+1042,MLS,Vancouver Whitecaps FC,Tosaint Ricketts,Forward,32,71,170,23.70759769886927,6.34
+1043,MLS,New York City FC,Alexander Ring,Midfielder,29,68,159,24.173226643598618,6.99
+1044,MLS,San Jose Earthquakes,Andres Rios,Forward,30,70,172,24.676734693877552,6.38
+1047,MLS,FC Dallas,Thomas Roberts,Midfielder,18,71,150,20.91846855782583,6.38
+1049,MLS,Atlanta United FC,Miles Robinson,Defender,23,74,185,23.75,7.04
+1050,MLS,Inter Miami CF,Luis Robles,Goalkeeper,35,72,200,27.121913580246915,6.59
+1051,MLS,New York City FC,Tony Rocha,Midfielder,26,69,166,24.511237135055662,6.33
+1053,MLS,Los Angeles Football Club,Brian Rodriguez,Forward,19,68,150,22.80493079584775,6.73
+1055,MLS,Houston Dynamo,Memo Rodriguez,Midfielder,24,68,142,21.588667820069205,6.79
+1056,MLS,Seattle Sounders FC,Alex Roldan,Defender,23,70,155,22.237755102040815,6.31
+1057,MLS,Seattle Sounders FC,Cristian Roldan,Midfielder,24,68,165,25.085423875432525,7.16
+1060,MLS,Nashville SC,Dave Romney,Defender,26,74,190,24.39189189189189,6.61
+1061,MLS,Columbus Crew SC,Eloy Room,Goalkeeper,31,74,179,22.97972972972973,6.57
+1062,MLS,Vancouver Whitecaps FC,Andy Rose,Midfielder,30,74,175,22.466216216216218,6.35
+1063,MLS,Orlando City SC,Oriol Rosell,Midfielder,27,72,168,22.78240740740741,6.64
+1064,MLS,Colorado Rapids,Keegan Rosenberry,Defender,26,68,160,24.325259515570934,6.85
+1066,MLS,Los Angeles Football Club,Diego Rossi,Forward,22,67,146,22.864335041211852,7.38
+1067,MLS,New England Revolution,Kelyn Rowe,Midfielder,28,68,150,22.80493079584775,6.33
+1069,MLS,New York Red Bulls,Daniel Royer,Midfielder,29,70,160,22.955102040816328,6.98
+1070,MLS,Colorado Rapids,Diego Rubio,Forward,26,71,170,23.70759769886927,7.28
+1073,MLS,Real Salt Lake,Albert Rusnak,Midfielder,25,69,161,23.77294685990338,7.08
+1074,MLS,Sporting Kansas City,Johnny Russell,Midfielder,30,70,168,24.102857142857143,7.18
+1075,MLS,Colorado Rapids,Abdul Rwatubyaye,Defender,23,73,175,23.085944830174515,6.3
+1076,MLS,New York Red Bulls,Marc Rzatkowski,Midfielder,30,67,143,22.394519937625308,7.14
+1078,MLS,Houston Dynamo,Michael Salazar,Forward,27,71,165,23.01031541360841,6.11
+1079,MLS,San Jose Earthquakes,Shea Salinas,Defender,33,70,150,21.520408163265305,6.56
+1080,MLS,Sporting Kansas City,Daniel Salloi,Forward,23,73,150,19.787952711578157,6.3
+1081,MLS,Sporting Kansas City,Ilie Sanchez,Midfielder,29,71,170,23.70759769886927,6.59
+1083,MLS,New York City FC,James Sands,Defender/Midfielder,19,71,162,22.591946042451895,6.72
+1085,MLS,Columbus Crew SC,Pedro Santos,Midfielder,32,66,139,22.43273645546373,7.24
+1086,MLS,Philadelphia Union,Sergio Santos,Forward,25,72,181,24.545331790123456,6.53
+1088,MLS,Real Salt Lake,Tate Schmitt,Forward,22,71,161,22.45248958539972,6.08
+1092,MLS,D.C. United,Ulises Segura,Midfielder,26,72,154,20.883873456790123,6.55
+1093,MLS,Los Angeles Football Club,Eddie Segura,Defender,23,69,155,22.886998529720646,6.73
+1094,MLS,D.C. United,Chris Seitz,Goalkeeper,33,75,236,29.494755555555557,6.09
+1095,MLS,Montreal Impact,Amar Sejdic,Midfielder,23,70,158,22.668163265306124,5.96
+1096,MLS,FC Dallas,Brandon Servania,Midfielder,21,70,160,22.955102040816328,6.76
+1097,MLS,Toronto FC,Jacob Shaffelburg,Midfielder,20,70,150,21.520408163265305,6.52
+1099,MLS,Colorado Rapids,Andre Shinyashiki,Forward,22,69,150,22.14870825456837,6.91
+1100,MLS,Seattle Sounders FC,Harry Shipp,Midfielder,28,69,145,21.41041797941609,6.51
+1101,MLS,Montreal Impact,Shamit Shome,Midfielder,22,69,155,22.886998529720646,6.4
+1103,MLS,Real Salt Lake,Marcelo Silva,Defender,31,74,181,23.236486486486488,6.54
+1104,MLS,San Jose Earthquakes,Judson,Midfielder,26,66,143,23.078282828282827,6.77
+1105,MLS,New York Red Bulls,Josh Sims,Midfielder,23,68,148,22.500865051903116,6.71
+1106,MLS,New England Revolution,Seth Sinovic,Defender,33,70,170,24.389795918367348,6.43
+1108,MLS,Los Angeles Football Club,Pablo Sisniega,Goalkeeper,24,75,175,21.871111111111112,6.57
+1110,MLS,LA Galaxy,Jorgen Skjelvik,Defender,28,72,170,23.053626543209877,6.59
+1113,MLS,Orlando City SC,Kyle Smith,Defender,28,71,180,25.102162269390995,6.41
+1114,MLS,Sporting Kansas City,Graham Smith,Defender,24,75,186,23.245866666666668,6.72
+1119,MLS,FC Cincinnati,Caleb Stanko,Midfielder,26,71,179,24.96270581233882,6.19
+1123,MLS,Houston Dynamo,Aljaz Struna,Defender,29,74,185,23.75,6.33
+1124,MLS,New York City FC,Brad Stuver,Goalkeeper,29,75,180,22.496,6.51
+1125,MLS,Seattle Sounders FC,Gustav Svensson,Midfielder/Defender,33,72,155,21.019483024691358,7.0
+1126,MLS,Inter Miami CF,Ben Sweat,Defender,28,74,175,22.466216216216218,6.58
+1128,MLS,Montreal Impact,Saphir Taider,Midfielder,28,70,160,22.955102040816328,7.05
+1129,MLS,New York City FC,Ismael Tajouri-Shradi,Midfielder,26,66,141,22.755509641873278,6.79
+1131,MLS,New York Red Bulls,Amro Tarek,Defender,27,75,194,24.24568888888889,6.77
+1132,MLS,Vancouver Whitecaps FC,Russell Teibert,Midfielder,27,68,150,22.80493079584775,6.45
+1134,MLS,San Jose Earthquakes,Tommy Thompson,Defender,24,67,145,22.707730006683004,6.81
+1136,MLS,New York City FC,Anton Tinnerholm,Defender,29,69,150,22.14870825456837,6.91
+1137,MLS,Real Salt Lake,Donny Toia,Defender,27,68,160,24.325259515570934,6.8
+1138,MLS,Seattle Sounders FC,Nouhou Tolo,Defender,22,70,175,25.107142857142858,6.42
+1140,MLS,Inter Miami CF,Roman Torres,Defender,34,74,195,25.033783783783782,6.68
+1141,MLS,Minnesota United FC,Mason Toye,Forward,21,75,180,22.496,6.57
+1142,MLS,LA Galaxy,Diedie Traore,Defender,21,72,180,24.40972222222222,6.96
+1143,MLS,Inter Miami CF,Wil Trapp,Midfielder,27,68,150,22.80493079584775,6.72
+1145,MLS,Portland Timbers,Bill Tuiloma,Defender,25,70,175,25.107142857142858,6.75
+1146,MLS,New England Revolution,Matt Turner,Goalkeeper,25,75,175,21.871111111111112,7.06
+1148,MLS,FC Dallas,Ema Twumasi,Forward,22,68,160,24.325259515570934,5.89
+1149,MLS,FC Cincinnati,Przemyslaw Tyton,Goalkeeper,33,77,195,23.12109967954124,6.24
+1150,MLS,Inter Miami CF,Victor Ulloa,Midfielder,28,71,165,23.01031541360841,6.44
+1152,MLS,Montreal Impact,Maximiliano Urruti,Forward,29,72,165,22.375578703703702,6.79
+1153,MLS,Houston Dynamo,Zarek Valentin,Defender,28,71,156,21.75520730013886,6.43
+1155,MLS,Portland Timbers,Diego Valeri,Midfielder,33,70,165,23.672448979591838,7.29
+1156,MLS,New York Red Bulls,Florian Valot,Midfielder,27,69,153,22.591682419659737,6.89
+1157,MLS,FC Cincinnati,Maikel van der Werff,Defender,31,73,181,23.877462938637642,6.55
+1159,MLS,FC Cincinnati,Brandon Vazquez,Forward,21,75,175,21.871111111111112,6.68
+1160,MLS,San Jose Earthquakes,Daniel Vega,Goalkeeper,35,74,200,25.675675675675677,6.67
+1161,MLS,Houston Dynamo,Matias Vera,Midfielder,24,67,155,24.273780351971485,6.67
+1165,MLS,Colorado Rapids,Sam Vines,Defender,20,70,150,21.520408163265305,6.41
+1168,MLS,Philadelphia Union,Kai Wagner,Defender,23,72,172,23.324845679012345,6.8
+1173,MLS,FC Cincinnati,Kendall Waston,Defender,32,77,195,23.12109967954124,6.62
+1175,MLS,Toronto FC,Quentin Westberg,Goalkeeper,34,73,174,22.954025145430663,6.59
+1176,MLS,New York Red Bulls,Brian White,Forward,24,70,170,24.389795918367348,6.84
+1179,MLS,Columbus Crew SC,Josh Williams,Defender,32,74,192,24.64864864864865,6.59
+1180,MLS,Portland Timbers,Eryk Williamson,Midfielder,22,69,155,22.886998529720646,6.23
+1181,MLS,Nashville SC,Joe Willis,Goalkeeper,31,77,189,22.409681227863047,6.52
+1182,MLS,Colorado Rapids,Danny Wilson,Defender,28,74,174,22.33783783783784,6.59
+1184,MLS,San Jose Earthquakes,Chris Wondolowski,Forward,37,72,165,22.375578703703702,6.74
+1185,MLS,Philadelphia Union,Andrew Wooten,Forward,30,73,187,24.668981047100768,6.28
+1187,MLS,Los Angeles Football Club,Bradley Wright-Phillips,Forward,35,68,155,23.565095155709344,6.27
+1188,MLS,Colorado Rapids,Deklan Wynne,Defender,25,70,165,23.672448979591838,6.37
+1191,MLS,D.C. United,Griffin Yow,Forward,17,67,135,21.14167966139452,6.13
+1192,MLS,San Jose Earthquakes,Jackson Yueill,Midfielder,23,70,165,23.672448979591838,6.77
+1193,MLS,New England Revolution,Wilfried Zahibo,Midfielder,26,74,175,22.466216216216218,6.52
+1194,MLS,Portland Timbers,Renzo Zambrano,Midfielder,25,67,150,23.490755179327245,6.47
+1195,MLS,Columbus Crew SC,Gyasi Zardes,Forward,28,73,187,24.668981047100768,6.9
+1196,MLS,Toronto FC,Eriq Zavaleta,Defender,27,73,185,24.40514167761306,6.28
+1197,MLS,New York City FC,Gedion Zelalem,Midfielder,23,71,155,21.61575084308669,6.23
+1199,MLS,Nashville SC,Adrian Zendejas,Goalkeeper,24,77,185,21.935402260077584,6.6
+1200,MLS,FC Dallas,Reto Ziegler,Defender,34,72,176,23.867283950617285,6.61
+1201,MLS,Nashville SC,Walker Zimmerman,Defender,26,75,185,23.12088888888889,6.9
+1203,MLS,LA Galaxy,Ethan Zubak,Forward,22,72,165,22.375578703703702,5.95
+1205,MLS,Sporting Kansas City,Graham Zusi,Defender,33,70,160,22.955102040816328,6.8
